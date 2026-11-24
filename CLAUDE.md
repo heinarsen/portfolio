@@ -17,6 +17,9 @@ Hannah Einarsen's portfolio (heinarsen.com), moving off Webflow to a fresh desig
 - Old work, tentative: keep Whole Foods Supplier Data Catalog (2024); merge the two Wayfair "Add Products" studies; keep Activity Diagramming reframed as leadership; cut or condense the 2020 Ticketmaster set, Spotify Wrapped and OEO UI Kit. Final call after seeing the new work.
 - The old Webflow site is still live and untouched; it stays up until the new site is live.
 
+## Private notes
+Confidential source material, ownership details and case-study notes live in the PRIVATE repo `heinarsen/portfolio-notes`. Read its CLAUDE.md before writing case studies. Never copy confidential content into this public repo.
+
 ## New work (Figma file "Portfolio 2026", in Hannah's Drafts, Free plan)
 Pages: Resume & Testimonials · Task Management (Authoring & Template Building, Daily Work List, Detail Page Standardization, Feedback / UXR Contributions & Stats, Notifications & Escalations, Photo Capture, Store Desktop / Store Walks / UXR) · Supplier Portal · Location Management · Misc (AI in Handheld Tools, GEM Design Library Contributions, SCO at Whole Foods Market).
 As of Nov 24, 2026, every project page is EMPTY (titles only). The "Resume & Testimonials" page holds one resume, positioned as "Wellness Operations Specialist"; there are no testimonials yet. Older resumes on the trash page list "Senior UX Designer, WFM + Amazon".
