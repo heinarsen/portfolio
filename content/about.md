@@ -11,4 +11,4 @@ I’m curious by nature and believe that collaboration is an integral part of pr
 ## Contact
 
 hannah.einarsen@gmail.com  
-Based in Austin, TX.
+Based in Chicago, IL.
