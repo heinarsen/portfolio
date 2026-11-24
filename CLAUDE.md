@@ -19,6 +19,9 @@ Hannah Einarsen's portfolio (heinarsen.com), moving off Webflow to a fresh desig
 
 ## New work (Figma file "Portfolio 2026", in Hannah's Drafts, Free plan)
 Pages: Resume & Testimonials · Task Management (Authoring & Template Building, Daily Work List, Detail Page Standardization, Feedback / UXR Contributions & Stats, Notifications & Escalations, Photo Capture, Store Desktop / Store Walks / UXR) · Supplier Portal · Location Management · Misc (AI in Handheld Tools, GEM Design Library Contributions, SCO at Whole Foods Market).
+As of Nov 24, 2026, every project page is EMPTY (titles only). The "Resume & Testimonials" page holds one resume, positioned as "Wellness Operations Specialist"; there are no testimonials yet. Older resumes on the trash page list "Senior UX Designer, WFM + Amazon".
+Only the Figma work is WFM/Amazon. The old-site work is Wayfair/Ticketmaster etc.
+Projects named on her resumes but missing from the outline: Quality Standards labeling/search (300+ ingredient ban list, app + web), and the assortment planning tool / product data management tool.
 Free plan means a low monthly Figma connector limit (about 20 calls). Prefer PDF/PNG exports dragged into chat, and use the connector sparingly.
 
 Proposed portfolio structure (pending Hannah's review):
