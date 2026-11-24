@@ -17,6 +17,18 @@ Hannah Einarsen's portfolio (heinarsen.com), moving off Webflow to a fresh desig
 - Old work, tentative: keep Whole Foods Supplier Data Catalog (2024); merge the two Wayfair "Add Products" studies; keep Activity Diagramming reframed as leadership; cut or condense the 2020 Ticketmaster set, Spotify Wrapped and OEO UI Kit. Final call after seeing the new work.
 - The old Webflow site is still live and untouched; it stays up until the new site is live.
 
+## New work (Figma file "Portfolio 2026", in Hannah's Drafts, Free plan)
+Pages: Resume & Testimonials · Task Management (Authoring & Template Building, Daily Work List, Detail Page Standardization, Feedback / UXR Contributions & Stats, Notifications & Escalations, Photo Capture, Store Desktop / Store Walks / UXR) · Supplier Portal · Location Management · Misc (AI in Handheld Tools, GEM Design Library Contributions, SCO at Whole Foods Market).
+Free plan means a low monthly Figma connector limit (about 20 calls). Prefer PDF/PNG exports dragged into chat, and use the connector sparingly.
+
+Proposed portfolio structure (pending Hannah's review):
+1. Flagship: **Task Management** as ONE deep case study (platform story). Go deep on 2–3 initiatives; the rest become a scope overview. UXR/store walks feed the research section, and stats feed impact.
+2. **Supplier Portal**, merged with the existing Supplier Data Catalog (2024) study.
+3. **Location Management**.
+4. **SCO at Whole Foods** or **AI in Handheld Tools**, whichever has the stronger story and impact.
+- "Leadership & craft" section: GEM Design Library, Activity Diagramming (Wayfair), UXR contributions.
+- "Earlier work": one merged Wayfair card. Cut the Ticketmaster set, Spotify Wrapped and OEO.
+
 ## Case study structure (for writing up new work)
 Basics (company, role, team, timeline, scope) → Problem (who, why it mattered) → Process (research, decisions, tradeoffs, collaboration) → Visuals → Impact (metrics first) → NDA notes.
 
